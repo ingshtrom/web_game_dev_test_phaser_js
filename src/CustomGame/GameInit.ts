@@ -7,7 +7,7 @@ module CustomGame {
     export class GameInit {
 
         constructor() {
-            var game: Phaser.Game  = new Phaser.Game(800, 600, Phaser.AUTO, '', {});
+            var game: Phaser.Game  = new Phaser.Game(640, 640, Phaser.AUTO, '', {});
 
             game.state.add('Boot', Boot);
             game.state.add('Preloader', Preloader);

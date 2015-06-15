@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="scifi_platformTiles_32x32" tilewidth="32" tileheight="32">
+  <image source="../../JavaScript-Phaser-Game-In-Visual-Studio/JavaScript Phaser Game In Visual Studio/assets/tilemaps/scifi_platformTiles_32x32.png" width="1120" height="736"/>
+ </tileset>
+ <layer name="background" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJybxcTAMBuI5wDxLCqw9wLxPiDeTyX2AyB+CMSPqMSmhh9H/Tvq31H/jvp31L8MDABDKClA
+  </data>
+ </layer>
+ <layer name="blocklayer" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxzZmKgGnBmguBR81Dl0fFgcd+oecSZhw9TQw+l7hs1j7wwH8r+pcQ8amIAu6gXLw==
+  </data>
+ </layer>
+</map>
