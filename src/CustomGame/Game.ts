@@ -15,8 +15,6 @@ module CustomGame {
         }
 
         create(): void {
-            var ledge, ground;
-            
             this._map = this.add.tilemap('myTilemap');
             this._map.addTilesetImage('scifi_platformTiles_32x32', 'myTileset');
             this._map.setCollision(579, true, 'blocklayer');

@@ -15,6 +15,10 @@
         "!./node_modules/**/*.ts"
     ],
     "files": [
+        "./CustomGame/Boot.ts",
+        "./CustomGame/Game.ts",
+        "./CustomGame/GameInit.ts",
+        "./CustomGame/Preloader.ts",
         "./index.ts"
     ]
 }
